@@ -1,1 +1,34 @@
 /* write your override styles here */
+
+#wall .tag-1{
+    display: none;
+}
+
+#wall #tag-2{
+    width: 100%;
+}
+
+#tag-2{
+    margin: -22px 80px 49px -0px;
+}
+ 
+wall tag-3{
+    width: 50%;
+}
+
+tag-3{
+    margin: 23px 360px 70px 500px;
+}
+#wall #tag-4 {
+    height: 480px;
+    width: 550px;
+  }
+  
+  #tag-6 {
+    margin-left: -5px;
+    margin-top: 10px;
+  }
+  
+  #tag-7 {
+    margin-left: 220px;
+  }
